@@ -25,3 +25,6 @@ Etape 6 :
 * La réponse est un fichier json, les informations qui nous interessent sont dans la balise forecast
 * Pour obtenir la temperature il faut utiliser les valeurs tmin et tmax
 * Pour afficher les previsions, il faut il faut prendre les données dans la balise où datetime correspond au jour que l'on veut connaitre
+
+Lien GitHub :
+https://github.com/PapayeRavage/App
